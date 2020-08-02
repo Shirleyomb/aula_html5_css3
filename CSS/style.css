@@ -1,0 +1,50 @@
+body {
+background: moccasin;
+margin-left: 200px;
+margin-right: 200px;
+margin-top: 50px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+
+h1 {
+    color: darkred;
+    font-family: Georgia;
+}
+
+h2 {
+    color: firebrick;
+    font-family: 'Lucida Sans';
+}
+
+h3 {
+    color: crimson;
+    font-family: Verdana;
+}
+
+h4 {
+    color: darkslategray;
+    font-family: 'Gill Sans';
+}
+
+p {
+    font-size: 25px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 30px;
+}
+
